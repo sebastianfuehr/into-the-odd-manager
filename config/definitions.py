@@ -1,0 +1,1 @@
+CHARACTER_LEVELS = ['Novice', 'Professional', 'Expert', 'Veteran', 'Master', 'Beyond']
